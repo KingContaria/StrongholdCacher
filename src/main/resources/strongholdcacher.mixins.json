@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kingcontaria.strongholdcacher.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ChunkGeneratorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
